@@ -1,0 +1,23 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "multivision mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendApps/MEAN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontendApps/MEAN/issues"
+  },
+  "homepage": "https://github.com/frontendApps/MEAN#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jade": "^1.11.0"
+  }
+}
